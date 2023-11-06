@@ -1,4 +1,13 @@
-# WANTEDREAM
+<h1 align="center">WANTEDREAM</h1>
+
+<br />
+
+<div align="center">
+    <img width="350" alt="스크린샷 2023-11-06 오후 10 28 31" src="https://github.com/wanted-pre-onboarding-backend-team-s/bab-doduk/assets/50052512/f130d86c-9431-43f3-9f0c-835cd02d2365">
+</div>
+
+<br />
+<br />
 
 ## 🧑‍💻🧑‍💻🧑‍💻👩‍💻👩‍💻 팀을 소개합니다. 👋
 
@@ -6,6 +15,8 @@
 - 어려운 점은 서로 도와가면서, 잘했던 것은 서로 공유하면서 지속적으로 성장하는 경험을 갖기 위해 노력합니다.
 - 백엔드 개발 위주로 개발을 진행하고 있습니다.
 - 지금은 전국 각지에 흩어져있지만, 언젠가 다같이 모각코를 할 날을 기다립니다.
+
+<br />
 
 ## 👨‍👩‍👧‍👦 팀 멤버를 소개합니다.
 
@@ -83,11 +94,17 @@
     </tr>
 </table>
 
+<br />
+<hr />
+<br />
+
 ## 🛠️ 팀의 주요 기술 스택입니다.
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL 8-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
+
+<br />
 
 ## 🤝 팀의 주요 협업 도구입니다.
 
@@ -96,6 +113,8 @@
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
+<br />
+
 ## 🗓️ Since 2023-10-23 ~ now
 
 - 1주차: 소셜미디어 피드 통합 관리 API 서버 개발
@@ -103,6 +122,8 @@
 - 3주차:
 - 4주차:
 - 5주차 이후: 저희 팀의 프로젝트는 계속해서 개선됩니다...
+
+<br />
 
 ## 👾 문화를 공유하는 데 동의하고 실천합니다.
 
@@ -119,3 +140,6 @@
 
 [Discussion 예시]: https://github.com/wanted-pre-onboarding-backend-team-s/bab-doduk/discussions?discussions_q=
 [코드 리뷰 예시]: https://github.com/wanted-pre-onboarding-backend-team-s/bab-doduk/pull/12/files
+
+<br />
+<br />
